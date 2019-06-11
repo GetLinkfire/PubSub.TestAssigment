@@ -19,7 +19,7 @@ We’d like you to produce a small solution that demonstrates the concepts of th
 - dotnet sln should contain at least 3 executable projects, one for publisher and 2 different subscribers
 - Feel free to add more class library projects or Unit Testing projects
 
-This should be created in pure C#. You are free to use third-party libraries to help with some aspects of it.
+You are free to use **third-party libraries** to help with some aspects of it.
 
 Solution should be testable, we are not looking for 100% code coverage but show examples of how you make  parts unit-testable.
 
