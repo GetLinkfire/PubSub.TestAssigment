@@ -1,0 +1,11 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/PubSub/.vs/PubSub
+/PubSub/Desktop.Subscriber/obj
+/PubSub/Messaging/obj
+/PubSub/Mobile.Subscriber/obj
+/PubSub/Publisher/bin/Debug/netcoreapp2.1
+/PubSub/Publisher/obj
+/PubSub/global.json
