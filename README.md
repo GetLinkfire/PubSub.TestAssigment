@@ -12,17 +12,24 @@ We’d like you to produce a small solution that demonstrates the concepts of th
 
 
 #### Task
+Edit the current solution to do the following:
 - Take an input of data
 - Transform that data in some way
 - Transport that data to a set of subscribers
 - Have the subscribers display the transformed data
-- dotnet sln should contain at least 3 executable projects, one for publisher and 2 different subscribers
 - Feel free to add more class library projects or Unit Testing projects
 
 You are free to use **third-party libraries** to help with some aspects of it.
 
 Solution should be testable, we are not looking for 100% code coverage but show examples of how you make  parts unit-testable.
 
+#### Acceptance criterion:
+- Exec unit tests
+- Run Publisher
+- Run DesktopSubscriber
+- Run MobileSubscriber
+- We should be able to write something from Publisher.exe and see it received and transformed by subscribers
 
 #### Note:
 Please don't make it more complex than necessary. We would like to see a piece of code as you would do on your normal working day.
+Please create your own repository.
